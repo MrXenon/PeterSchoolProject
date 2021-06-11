@@ -11,7 +11,7 @@
                     <div class="col md-margin-50px-bottom wow animate__fadeIn">
                         <div class="feature-box padding-3-rem-lr lg-padding-2-rem-lr sm-padding-1-rem-lr">
                             <div class="feature-box-icon feature-box-icon-rounded dark bg-white w-130px h-130px rounded-circle box-shadow-large margin-40px-bottom sm-margin-30px-bottom">
-                                <i class="line-icon-Money-Bag icon-large text-shamrock-green"></i>
+                                <i class="fas fa-eye icon-large text-shamrock-green"></i>
                                 <div class="feature-box-icon-hover bg-gradient-shamrock-green-light-orange rounded-circle"></div>
                             </div>
                             <div class="feature-box-content">
@@ -30,7 +30,7 @@
                     <div class="col md-margin-50px-bottom wow animate__fadeIn" data-wow-delay="0.2s">
                         <div class="feature-box padding-3-rem-lr lg-padding-2-rem-lr sm-padding-1-rem-lr">
                             <div class="feature-box-icon feature-box-icon-rounded dark bg-white w-130px h-130px rounded-circle box-shadow-large margin-40px-bottom sm-margin-30px-bottom">
-                                <i class="line-icon-Talk-Man icon-large text-shamrock-green"></i>
+                                <i class="fas fa-bullseye icon-large text-shamrock-green"></i>
                                 <div class="feature-box-icon-hover bg-gradient-shamrock-green-light-orange rounded-circle"></div>
                             </div>
                             <div class="feature-box-content">
