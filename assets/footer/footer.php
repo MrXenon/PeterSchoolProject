@@ -56,7 +56,7 @@
                             </ul>
                         </div>
                         <div class="col-12 col-md-6 text-left text-sm-center text-md-right last-paragraph-no-margin">
-                            <p>Gemaakt met veel &hearts; & ☕ <a href="https://www.themezaa.com/" target="_blank" class="text-decoration-line-bottom text-white">ThemeZaa</a></p>
+                            <p>Gemaakt met veel &hearts; & ☕ door <a href="index.php" target="_blank" class="text-decoration-line-bottom text-white">Filters4Fun - #LetsBeReal</a></p>
                         </div>
                     </div>
                 </div>
