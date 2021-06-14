@@ -13,10 +13,10 @@
                         <div class="col-12 col-lg-3 col-sm-4 order-sm-3 order-lg-0 xs-margin-25px-bottom">
                             <span class="alt-font font-weight-500 d-block text-white margin-20px-bottom xs-margin-10px-bottom">Company</span>
                             <ul>
-                                <li><a href="about-us.html">About us</a></li>
-                                <li><a href="our-services.html">Our services</a></li>
-                                <li><a href="our-team.html">Job opportunities</a></li>
-                                <li><a href="contact-us-classic.html">Contact us</a></li>
+                                <li><a href="#">About us</a></li>
+                                <li><a href="#">Our services</a></li>
+                                <li><a href="#">Job opportunities</a></li>
+                                <li><a href="#">Contact us</a></li>
                             </ul>
                         </div>
                         <!-- end footer column -->
@@ -24,10 +24,10 @@
                         <div class="col-12 col-lg-3 col-sm-4 order-sm-4 order-lg-0 xs-margin-25px-bottom">
                             <span class="alt-font font-weight-500 d-block text-white margin-20px-bottom xs-margin-10px-bottom">Customer</span>
                             <ul>                           
-                                <li><a href="faq.html">Client support</a></li>
-                                <li><a href="our-story.html">Company story</a></li>
-                                <li><a href="pricing-packages.html">Pricing packages</a></li>
-                                <li><a href="our-process.html">Our process</a></li>
+                                <li><a href="#">Client support</a></li>
+                                <li><a href="#">Company story</a></li>
+                                <li><a href="#">Pricing packages</a></li>
+                                <li><a href="#">Our process</a></li>
                             </ul>
                         </div>
                         <!-- end footer column -->
@@ -35,10 +35,10 @@
                         <div class="col-12 col-lg-3 col-sm-4 order-sm-5 order-lg-0 xs-margin-25px-bottom">
                             <span class="alt-font font-weight-500 d-block text-white margin-20px-bottom xs-margin-10px-bottom">Additional</span>
                             <ul>
-                                <li><a href="our-story.html">Our story</a></li>
-                                <li><a href="who-we-are.html">Who we are</a></li>
-                                <li><a href="our-process.html">Our process</a></li>
-                                <li><a href="latest-news.html">Latest news</a></li>
+                                <li><a href="#">Our story</a></li>
+                                <li><a href="#">Who we are</a></li>
+                                <li><a href="#">Our process</a></li>
+                                <li><a href="#">Latest news</a></li>
                             </ul>
                         </div>
                         <!-- end footer column -->

@@ -3,7 +3,7 @@
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-12 col-lg-6 col-md-8 text-center margin-5-rem-bottom md-margin-4-rem-bottom wow animate__fadeIn">
-                        <h4 class="alt-font font-weight-600 text-extra-dark-gray letter-spacing-minus-1px">Het <span style="background-color: #FFBD59; color:#fff;">&nbsp;#NoFilter&nbsp;</span> team</h4>
+                        <h4 class="alt-font font-weight-600 text-extra-dark-gray letter-spacing-minus-1px">Het <span style="background-color: #FFBD59; color:#fff;" class="heading">&nbsp;#LetsBeReal&nbsp;</span> team</h4>
                         <p class="w-80 mx-auto md-w-100 mb-0">Dit is het team van #Filters4Fun, u kunt meer over hen te weten komen door op hun afbeelding te staan met uw muis. 
                             Voor onze mobiele gebruikers, voldoet een enkele klik op hun afbeelding.</p>
                     </div>
@@ -40,9 +40,9 @@
                                 <span class="team-title d-block alt-font text-white" style="margin-top: -300px !important;">Peter van den Hout</span>
                                 <div class="social-icon w-100 position-absolute left-0px">
                                 <p style="color: #fff; padding-left:20px; padding-right:20px; padding-top:50px;">
-                               Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-                               In fermentum, urna ut volutpat viverra, justo augue venenatis nisl, ac interdum odio risus a nibh. 
-                               Cras placerat, quam a consectetur lacinia, urna lorem consequat mauris, et euismod lacus velit id felis. 
+                                Ik ben 19 jaar oud en woon in Den Haag. 
+                                Dit jaar ben ik begonnen met de studie Communicatie aan de Haagse Hogeschool. 
+                                In mijn vrije tijd hou ik van sporten zoals thaiboksen.
                                </p>
                                 </div>
                             </figcaption>

@@ -4,7 +4,7 @@
                 <div class="row align-items-center justify-content-center">
                     <div class="col-12 col-xl-6 col-lg-8 col-md-7 col-sm-10 text-center text-md-left sm-margin-30px-bottom">
                         <h5 class="alt-font text-dark-charcoal font-weight-700 text-uppercase letter-spacing-minus-1px mb-0">
-                        Word ook een partner van <strong class="text-olivine-green text-decoration-underline">#NoFilter</strong> en kom hier bij onze partners te staan.</h5>
+                        Word ook een partner van <strong class="text-olivine-green text-decoration-underline">Filters4Fun</strong> en kom hier bij onze partners te staan.</h5>
                     </div>
                     <div class="col-12 col-xl-4 offset-xl-2 col-lg-4 col-md-5 text-center text-md-right wow animate__zoomIn">
                         <a href="https://www.youtube.com/watch?v=g0f_BRYJLJE" class="popup-youtube btn btn-extra-large btn-olivine-green btn-round-edge">

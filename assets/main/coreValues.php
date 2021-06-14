@@ -15,7 +15,7 @@
                                 <div class="feature-box-icon-hover bg-gradient-shamrock-green-light-orange rounded-circle"></div>
                             </div>
                             <div class="feature-box-content">
-                                <span class="alt-font font-weight-500 margin-15px-bottom d-block text-extra-dark-gray">Missie</span>
+                            <h5 class="alt-font font-weight-600 text-extra-dark-gray letter-spacing-minus-1px">Missie</h5>
                                 <p>Wij van FILTERS 4 FUN willen dat het gebruik van filters het zelfbeeld van jongeren niet meer in grote mate aantast. 
                                     De lijn tussen werkelijkheid en een ‘fantasie’ wordt door het gebruik van filters steeds onduidelijker en het zorgt voor een onhaalbaar schoonheidsideaal bij jongeren. 
                                     Door deze onhaalbare voorbeelden wordt het zelfbeeld en het zelfrespect dermate ernstig beïnvloed. 
@@ -34,7 +34,7 @@
                                 <div class="feature-box-icon-hover bg-gradient-shamrock-green-light-orange rounded-circle"></div>
                             </div>
                             <div class="feature-box-content">
-                                <span class="alt-font font-weight-500 margin-15px-bottom d-block text-extra-dark-gray">Visie</span>
+                            <h5 class="alt-font font-weight-600 text-extra-dark-gray letter-spacing-minus-1px">Visie</h5>
                                 <p>Filters zijn ‘fun’ en niet nodig om je mooier te voelen. 
                                     Wij willen dat er duidelijk wordt aangegeven wanneer er gebruik wordt gemaakt van een zogenoemd beauty- of retoucheer filter. 
                                     Hiermee willen wij bereiken dat het zelfbeeld en zelfrespect van jongeren stijgt door hen in te laten zien dat al hun voorbeelden een onrealistisch beeld laten zien. 
