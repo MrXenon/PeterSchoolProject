@@ -21,10 +21,10 @@
         <?php // include 'assets/main/experiences.php'; ?>
         <?php // include 'assets/main/highExpertise.php'; ?>
         <?php // include 'assets/main/quickInfo.php'; ?>
-        <?php include 'assets/main/meetTheTeam.php'; ?>
+        <?php // include 'assets/main/meetTheTeam.php'; ?>
         <?php // include 'assets/main/blog.php'; ?>
-        <?php include 'assets/main/testimonial.php'; ?>
-        <?php include 'assets/main/partnersfancy.php'; ?>
+        <?php // include 'assets/main/testimonial.php'; ?>
+        <?php // include 'assets/main/partnersfancy.php'; ?>
         <?php include 'assets/main/cta.php'; ?>
         <?php include 'assets/footer/footer.php'; ?>
         <?php include 'assets/footer/scripts.php'; ?>

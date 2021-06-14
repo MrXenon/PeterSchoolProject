@@ -1,5 +1,5 @@
 <!-- start page title -->
-<section class="parallax" data-parallax-background-ratio="0.5" style="background-image:url('images/home-hotel-resort-img-02.jpg');">
+<section class="parallax" data-parallax-background-ratio="0.5" style="background-image:url('images/slide2.PNG');">
             <div class="opacity-extra-medium bg-extra-dark-gray"></div>
             <div class="container">
                 <div class="row align-items-stretch justify-content-center small-screen">

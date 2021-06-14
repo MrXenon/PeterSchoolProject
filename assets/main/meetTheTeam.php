@@ -1,5 +1,5 @@
 <!-- start section -->
-<section>
+<section id="team">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-12 col-lg-6 col-md-8 text-center margin-5-rem-bottom md-margin-4-rem-bottom wow animate__fadeIn">
@@ -8,9 +8,9 @@
                             Voor onze mobiele gebruikers, voldoet een enkele klik op hun afbeelding.</p>
                     </div>
                 </div>
-                <div class="row row-cols-1 row-cols-lg-4 row-cols-sm-2 justify-content-center">
+                <div class="row row-cols-1 row-cols-lg-2 row-cols-sm-2 justify-content-center">
                     <!-- start team member -->
-                    <div class="col team-style-01 text-center md-margin-30px-bottom xs-margin-15px-bottom wow animate__fadeIn" data-wow-delay="0.2s">
+                    <div class="col team-style-01 text-center md-margin-30px-bottom xs-margin-15px-bottom wow animate__fadeIn"  style="margin-bottom: 20px;" data-wow-delay="0.2s">
                         <figure class="border-radius-5px">
                             <div class="team-member-image">
                                 <img alt="" src="images/Jade.jpg">
@@ -20,9 +20,10 @@
                                 <span class="team-title d-block alt-font text-white" style="margin-top: -300px !important;">Jade de Blok</span>
                                 <div class="social-icon w-100 position-absolute left-0px">
                                 <p style="color: #fff; padding-left:20px; padding-right:20px; padding-top:50px;">
-                                Ik ben 18 jaar uit en ik kom uit Vlaardingen. 
-                                Naast mijn studie Communicatie houdt ik mij veel bezig met visagie en werk ik als visagiste. 
-                                Verder vind ik het leuk om te tennissen.  
+                                Ik ben Jade de Blok en ik ben 18 jaar. Ik vind het belangrijk dat wij ons hard maken voor de invloed van filters op jongeren. 
+                                Dit is omdat ik uit ervaring spreek dat filters veel invloed hebben op tieners. <br><br>
+                                Toen ik zelf 13 á 14 jaar was maakten mijn vriendinnen en ik alleen maar selfies met filters omdat wij ons op deze manier mooier voelden. 
+                                Wij hadden toen niet door dat alle instagram modellen ook filters gebruikten. Het is belangrijk voor jongeren dat hier meer duidelijkheid over komt. 
                                </p>
                                 </div>
                             </figcaption>
@@ -40,9 +41,11 @@
                                 <span class="team-title d-block alt-font text-white" style="margin-top: -300px !important;">Peter van den Hout</span>
                                 <div class="social-icon w-100 position-absolute left-0px">
                                 <p style="color: #fff; padding-left:20px; padding-right:20px; padding-top:50px;">
-                                Ik ben 19 jaar oud en woon in Den Haag. 
-                                Dit jaar ben ik begonnen met de studie Communicatie aan de Haagse Hogeschool. 
-                                In mijn vrije tijd hou ik van sporten zoals thaiboksen.
+                                Ik ben 19 jaar oud en woon in Den Haag. Dit jaar ben ik begonnen met de studie Communicatie aan de Haagse Hogeschool. 
+                                Ik vind Filters4Fun een goed initiatief omdat het doel is om jongeren te helpen. 
+                                Tegenwoordig komen er zoveel foto’s voorbij van modellen die extra mooi zijn gemaakt met het gebruik van beauty-filters. 
+                                Dit creëert en stimuleert onzekerheid onder jongeren en dat kan ernstige gevolgen hebben. 
+                                Daarom steun ik Filters4Fun om het zelfbeeld van jongeren te verbeteren en de onzekerheid tegen te gaan.
                                </p>
                                 </div>
                             </figcaption>
@@ -60,10 +63,10 @@
                                 <span class="team-title d-block alt-font text-white" style="margin-top: -300px !important;">Frederiek Koops</span>
                                 <div class="social-icon w-100 position-absolute left-0px">
                                 <p style="color: #fff; padding-left:20px; padding-right:20px; padding-top:50px;">
-                                    Ik ben 20 jaar oud en kom uit Rotterdam. 
-                                    Momenteel studeer ik Communicatie aan de Haagse Hogeschool. 
-                                    Ik werk bij RHV Leonidas en in mijn vrije tijd vind ik het leuk om te hockeyen.
-                                    </p>
+                                Ik ben 20 jaar oud en kom uit Rotterdam. Momenteel studeer ik Communicatie aan de Haagse Hogeschool. 
+                                Ik vind het belangrijk dat iedereen zich goed voelt over zichzelf. 
+                                Daarom vind ik Filters4Fun een goed initiatief om meer aandacht trekken voor een realistischer zelfbeeld onder jongeren.
+                                </P>
                                 </div>
                             </figcaption>
                         </figure>
@@ -80,9 +83,12 @@
                                 <span class="team-title d-block alt-font text-white" style="margin-top: -300px !important;">Melissa Halley</span>
                                 <div class="social-icon w-100 position-absolute left-0px">
                                 <p style="color: #fff; padding-left:20px; padding-right:20px; padding-top:50px;">
-                               Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-                               In fermentum, urna ut volutpat viverra, justo augue venenatis nisl, ac interdum odio risus a nibh. 
-                               Cras placerat, quam a consectetur lacinia, urna lorem consequat mauris, et euismod lacus velit id felis. 
+                                Ik ben 20 jaar oud en woon in Den Haag. Ik studeer Communicatie aan de Haagse Hogeschool en werk parttime bij Beachclub Spice in Scheveningen. 
+                                Daarnaast geniet ik in mijn vrije tijd van sporten in de sportschool. 
+                                Mijn eerste ervaring met beautyfilters was toen ik ongeveer 14 jaar was. 
+                                De filters zorgde ervoor dat ik er "mooier" uitzag en ik gebruikte ze ook obsessief. 
+                                Hierdoor voelde ik me zonder filter niet mooi genoeg. Nu ik ouder ben heb ik geleerd dat ik filter niet nodig heb om mij mooi te voelen. 
+                                Bij Filters4Fun willen wij dat bericht verder verspreiden om zo het zelfbeeld van jongeren te verbeteren.
                                </p>
                                </div>
                             </figcaption>

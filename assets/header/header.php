@@ -36,7 +36,7 @@
                     </div>
                     <div class="col-auto col-lg-2 text-right pr-0 font-size-0">
                     <div class="header-button d-none d-md-inline-block">
-                            <a href="#" class="btn btn-very-small btn-white btn-round-edge bg-white border-white text-dark box-shadow-large">Petitie</a>
+                            <a target="_blank" href="https://www.petitie24.nl/petitie/3909/over-beautyfilters-moet-een-watermerk-komen" class="btn btn-very-small btn-white btn-round-edge bg-white border-white text-dark box-shadow-large">Petitie</a>
                         </div>
                     </div>
                 </div>

@@ -11,35 +11,14 @@
                         <!-- end footer column -->
                         <!-- start footer column -->
                         <div class="col-12 col-lg-3 col-sm-4 order-sm-3 order-lg-0 xs-margin-25px-bottom">
-                            <span class="alt-font font-weight-500 d-block text-white margin-20px-bottom xs-margin-10px-bottom">Company</span>
-                            <ul>
-                                <li><a href="#">About us</a></li>
-                                <li><a href="#">Our services</a></li>
-                                <li><a href="#">Job opportunities</a></li>
-                                <li><a href="#">Contact us</a></li>
-                            </ul>
                         </div>
                         <!-- end footer column -->
                         <!-- start footer column -->
                         <div class="col-12 col-lg-3 col-sm-4 order-sm-4 order-lg-0 xs-margin-25px-bottom">
-                            <span class="alt-font font-weight-500 d-block text-white margin-20px-bottom xs-margin-10px-bottom">Customer</span>
-                            <ul>                           
-                                <li><a href="#">Client support</a></li>
-                                <li><a href="#">Company story</a></li>
-                                <li><a href="#">Pricing packages</a></li>
-                                <li><a href="#">Our process</a></li>
-                            </ul>
                         </div>
                         <!-- end footer column -->
                         <!-- start footer column -->
                         <div class="col-12 col-lg-3 col-sm-4 order-sm-5 order-lg-0 xs-margin-25px-bottom">
-                            <span class="alt-font font-weight-500 d-block text-white margin-20px-bottom xs-margin-10px-bottom">Additional</span>
-                            <ul>
-                                <li><a href="#">Our story</a></li>
-                                <li><a href="#">Who we are</a></li>
-                                <li><a href="#">Our process</a></li>
-                                <li><a href="#">Latest news</a></li>
-                            </ul>
                         </div>
                         <!-- end footer column -->
                     </div>
@@ -50,9 +29,7 @@
                     <div class="row">
                         <div class="col-12 col-md-6 sm-margin-10px-bottom xs-margin-15px-bottom">
                             <ul class="footer-horizontal-link d-flex flex-column flex-sm-row justify-content-sm-center justify-content-md-start">
-                                <li><a href="#">Privacy policy</a></li>
-                                <li><a href="#">Legal notice</a></li>
-                                <li><a href="#">Terms of service</a></li>
+                               
                             </ul>
                         </div>
                         <div class="col-12 col-md-6 text-left text-sm-center text-md-right last-paragraph-no-margin">

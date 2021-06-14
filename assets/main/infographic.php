@@ -7,20 +7,30 @@
                     </div>
                 </div>
                 <div class="row row-cols-3 row-cols-lg-2 row-cols-md-1 row-cols-sm-1 row-cols-xsm-1 justify-content-center"> 
-                        <a href="images/Bewaren.png" title="Hoe wij de voortgang bewaren" data-group="lightbox-gallery-2" class="lightbox-group-gallery-item">
+                        <a href="images/1.png" title="Hoe wij de voortgang bewaren" data-group="lightbox-gallery-2" class="lightbox-group-gallery-item" style="margin-bottom:20px;"> 
                             <div class="portfolio-box">
                                 <div class="portfolio-image">
-                                    <img src="images/Bewaren.png" style="width:1100px;height:auto;" alt="Hoe wij de voortgang bewaren Infographic" />
+                                    <img src="images/1.png" style="width:1100px;height:auto;" alt="Hoe wij de voortgang bewaren Infographic" />
                                     <div class="portfolio-hover justify-content-end d-flex flex-column padding-50px-tb lg-padding-30px-tb xs-padding-15px-tb">
                                         <i class="feather icon-feather-zoom-in portfolio-plus-icon font-weight-300 text-white absolute-middle-center icon-small move-top-bottom"></i>
                                     </div>
                                  </div>
                             </div>
                         </a>
-                        <a href="images/Verandering.png" title="Onze weg naar verandering" data-group="lightbox-gallery-2" class="lightbox-group-gallery-item">
+                        <a href="images/2.png" title="Onze weg naar verandering" data-group="lightbox-gallery-2" class="lightbox-group-gallery-item" style="margin-bottom:20px;">
                             <div class="portfolio-box">
                                 <div class="portfolio-image">
-                                    <img src="images/Verandering.png" style="width:1100px;height:auto;" alt="Onze weg naar verandering Infographic" />
+                                    <img src="images/2.png" style="width:1100px;height:auto;" alt="Onze weg naar verandering Infographic" />
+                                    <div class="portfolio-hover justify-content-end d-flex flex-column padding-50px-tb lg-padding-30px-tb xs-padding-15px-tb">
+                                        <i class="feather icon-feather-zoom-in portfolio-plus-icon font-weight-300 text-white absolute-middle-center icon-small move-top-bottom"></i>
+                                    </div>
+                                 </div>
+                            </div>
+                        </a>
+                        <a href="images/3.png" title="Hoe wij samenwerken" data-group="lightbox-gallery-2" class="lightbox-group-gallery-item">
+                            <div class="portfolio-box">
+                                <div class="portfolio-image">
+                                    <img src="images/3.png" style="width:1100px;height:auto;" alt="Hoe wij samenwerken Infographic" />
                                     <div class="portfolio-hover justify-content-end d-flex flex-column padding-50px-tb lg-padding-30px-tb xs-padding-15px-tb">
                                         <i class="feather icon-feather-zoom-in portfolio-plus-icon font-weight-300 text-white absolute-middle-center icon-small move-top-bottom"></i>
                                     </div>

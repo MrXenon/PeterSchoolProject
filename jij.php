@@ -25,6 +25,7 @@
         <?php // include 'assets/main/blog.php'; ?>
         <?php // include 'assets/main/partners.php'; ?>
         <?php include 'assets/main/testimonial.php'; ?>
+        <?php include 'assets/main/poster.php'; ?>
         <?php include 'assets/main/cta.php'; ?>
         <?php include 'assets/footer/footer.php'; ?>
         <?php include 'assets/footer/scripts.php'; ?>
