@@ -8,6 +8,17 @@
                     Dit willen wij doen door de politiek te overtuigen meer geld vrij te maken voor de zorg van jongeren op middelbare scholen. Die zorg kan bestaan uit voorlichtingen geven over mentale gezondheid en een positief zelfbeeld of dat er altijd een specialist aanwezig is. Als een leerling zich onzeker voelt over zijn of haar zelfbeeld dan moet er een specialist zijn waar die leerling bij terecht kan. Op het moment dat er genoeg mensen onze petitie hebben ondertekend moet de politiek ons issue bespreken. 
                     Politici zoals onder andere Jesse Klaver (GroenLinks), Shane Pattipeilohy (JONG) en Lisa Westerveld (GroenLinks) hebben zich uitgelaten over het issue. Jesse Klaver heeft aangegeven dat de mentale gezondheid van jongeren een belangrijk probleem is en meer aandacht verdiend. Shane Pattipeilohy is van mening dat dat het belangrijk is om een specialist op het gebied van zorg binnen een onderwijsinstelling te vestigen. Lisa Westerveld houd zich onder andere bezig met het verwezenlijken van genoeg behandelplekken voor jongere met complexen problemen.
                     <br>
+                    </div>
+                    <div class="col-4 col-xl-4 col-lg-4 col-md-4 col-sm-6 text-center text-md-left sm-margin-30px-bottom">
+                    <img src='images/jesse.png' alt='Jesse Groen Links'>
+                    </div>
+                    <div class="col-4 col-xl-4 col-lg-4 col-md-4 col-sm-6 text-center text-md-left sm-margin-30px-bottom">
+                    <img src='images/shane.png' alt='Shane Groen Links'>
+                    </div>
+                    <div class="col-4 col-xl-4 col-lg-4 col-md-4 col-sm-6 text-center text-md-left sm-margin-30px-bottom">
+                    <img src='images/lisa.png' alt="Lisa Groen Links">
+                    </div>
+                    <div class="col-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 text-center text-md-left sm-margin-30px-bottom">
                     <blockquote>Samen met deze politici kunnen wij het huidige beleid veranderen en zorgen dat er meer aandacht is voor de psychische gezondheid van jongeren op de middelbare scholen.</blockquote>
                     </p>    
                     </div>

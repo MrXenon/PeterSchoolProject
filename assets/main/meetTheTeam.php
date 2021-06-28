@@ -17,7 +17,8 @@
                                 <div class="team-overlay bg-transparent-gradient-shamrock-green-light-orange"></div>
                             </div>
                             <figcaption class="align-items-center justify-content-center d-flex flex-column padding-20px-lr padding-30px-tb">
-                                <span class="team-title d-block alt-font text-white" style="margin-top: -300px !important;">Jade de Blok</span>
+                                <h3 class="team-title d-block alt-font text-white" style="margin-top: -300px !important;">Jade de Blok</h3>
+                                <h6 class="team-title d-block alt-font text-white">Projectmanager</h6>
                                 <div class="social-icon w-100 position-absolute left-0px">
                                 <p style="color: #fff; padding-left:20px; padding-right:20px; padding-top:50px;">
                                 Ik ben Jade de Blok en ik ben 18 jaar. Ik vind het belangrijk dat wij ons hard maken voor de invloed van filters op jongeren. 
@@ -38,7 +39,8 @@
                                 <div class="team-overlay bg-transparent-gradient-shamrock-green-light-orange"></div>
                             </div>
                             <figcaption class="align-items-center justify-content-center d-flex flex-column padding-20px-lr padding-30px-tb">
-                                <span class="team-title d-block alt-font text-white" style="margin-top: -300px !important;">Peter van den Hout</span>
+                                <h3 class="team-title d-block alt-font text-white" style="margin-top: -300px !important;">Peter van den Hout</h3>
+                                <h6 class="team-title d-block alt-font text-white">Product owner</h6>
                                 <div class="social-icon w-100 position-absolute left-0px">
                                 <p style="color: #fff; padding-left:20px; padding-right:20px; padding-top:50px;">
                                 Ik ben 19 jaar oud en woon in Den Haag. Dit jaar ben ik begonnen met de studie Communicatie aan de Haagse Hogeschool. 
@@ -60,7 +62,8 @@
                                 <div class="team-overlay bg-transparent-gradient-shamrock-green-light-orange"></div>
                             </div>
                             <figcaption class="align-items-center justify-content-center d-flex flex-column padding-20px-lr padding-30px-tb">
-                                <span class="team-title d-block alt-font text-white" style="margin-top: -300px !important;">Frederiek Koops</span>
+                                <h3 class="team-title d-block alt-font text-white" style="margin-top: -300px !important;">Frederiek Koops</h3>
+                                <h6 class="team-title d-block alt-font text-white">Grafisch vormgever</h6>
                                 <div class="social-icon w-100 position-absolute left-0px">
                                 <p style="color: #fff; padding-left:20px; padding-right:20px; padding-top:50px;">
                                 Ik ben 20 jaar oud en kom uit Rotterdam. Momenteel studeer ik Communicatie aan de Haagse Hogeschool. 
@@ -80,7 +83,8 @@
                                 <div class="team-overlay bg-transparent-gradient-shamrock-green-light-orange"></div>
                             </div>
                             <figcaption class="align-items-center justify-content-center d-flex flex-column padding-20px-lr padding-30px-tb">
-                                <span class="team-title d-block alt-font text-white" style="margin-top: -300px !important;">Melissa Halley</span>
+                                <h3 class="team-title d-block alt-font text-white" style="margin-top: -300px !important;">Melissa Halley</h3>
+                                <h6 class="team-title d-block alt-font text-white">Copywriter</h6>
                                 <div class="social-icon w-100 position-absolute left-0px">
                                 <p style="color: #fff; padding-left:20px; padding-right:20px; padding-top:50px;">
                                 Ik ben 20 jaar oud en woon in Den Haag. Ik studeer Communicatie aan de Haagse Hogeschool en werk parttime bij Beachclub Spice in Scheveningen. 

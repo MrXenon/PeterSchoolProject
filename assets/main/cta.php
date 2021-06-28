@@ -1,6 +1,5 @@
         <!-- start section -->
-        <section class="fix-background padding-100px-tb md-padding-75px-tb sm-padding-50px-tb" style="background-image:url('images/home-creative-agency-testimonials-bg.png');">
-            <div class="opacity-medium bg-dark-slate-blue"></div>
+        <section class="bg-slate-blue padding-100px-tb md-padding-75px-tb sm-padding-50px-tb" style="background-image:url('images/home-creative-agency-testimonials-bg.png');">
             <div class="container">
                 <div class="row align-items-center justify-content-center">
                     <div class="col-12 col-xl-7 col-md-8 col-sm-10 text-center text-md-left sm-margin-30px-bottom">

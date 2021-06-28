@@ -8,7 +8,11 @@
                 </div>
                 <div class="row">
                     <div class="col-12 text-center">
-                        <div class="swiper-container black-move swiper-horizontal-3d padding-7-rem-tb swiper-pagination-bottom sm-padding-10-rem-top xs-padding-8-rem-top"  data-slider-options='{ "loop": true, "slidesPerView": 1,"centeredSlides":true,"effect":"coverflow","coverflowEffect":{"rotate":0,"stretch":100,"depth":150,"modifier":1.5,"slideShadows":true}, "navigation": { "nextEl": ".swiper-button-next", "prevEl": ".swiper-button-prev" }, "autoplay": { "delay": 3000, "disableOnInteraction": false }, "pagination": { "el": ".swiper-pagination", "clickable": true, "dynamicBullets": true }, "breakpoints": { "768": { "slidesPerView": 2 } } }'>
+                        <div class="swiper-container black-move swiper-horizontal-3d padding-7-rem-tb swiper-pagination-bottom sm-padding-10-rem-top xs-padding-8-rem-top"  
+                        data-slider-options='{ "loop": true, "slidesPerView": 1,"centeredSlides":true,"effect":"coverflow",
+                        "coverflowEffect":{"rotate":0,"stretch":100,"depth":150,"modifier":1.5,"slideShadows":true}, 
+                        "navigation": { "nextEl": ".swiper-button-next", "prevEl": ".swiper-button-prev" }, 
+                         "pagination": { "el": ".swiper-pagination", "clickable": true, "dynamicBullets": true }, "breakpoints": { "768": { "slidesPerView": 2 } } }'>
                             <div class="swiper-wrapper">
                                 <!-- start slider item -->
                                 <div class="swiper-slide bg-white border-radius-4px">

@@ -14,7 +14,8 @@
     </head>
     <body data-mobile-nav-trigger-alignment="right" data-mobile-nav-style="modern" data-mobile-nav-bg-color="#232323">
         <?php include 'assets/header/header.php'; ?>
-        <?php include 'assets/main/slider/spa.php'; ?>
+        <?php include 'assets/main/slider/video.php'; ?>
+        <?php // include 'assets/main/slider/spa.php'; ?>
         <?php // include 'assets/main/intro.php'; ?>
         <?php include 'assets/main/coreValues.php'; ?>
         <?php // include 'assets/main/pixelPerf.php'; ?>
