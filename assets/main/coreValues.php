@@ -37,9 +37,12 @@
                         <div class="feature-box padding-3-rem-lr lg-padding-2-rem-lr sm-padding-1-rem-lr">
                             <div class="feature-box-content">
                             <h3><span style=" color:#194074;" class="heading">&nbsp;Missie&nbsp;</h3>
+                            <h5 style="margin-top:-30px;"><span style="color:#194074;" class="heading">&nbsp;<u>Doe mee!</u>&nbsp;</h5>
                                 <p style="color: #194074; font-size:large;">
-                                Om ons doel te bereiken hebben we jouw hulp nodig! We zijn een handtekeningenactie gestart. We willen aantonen dat Vanity Sizing veel mensen in Nederland aangaat. We zijn immers bijna allemaal kledingconsument. Ook hebben wij van StopVanitySizing een enquête gestart om achtergrondinformatie te vergaren. 
-                                Deze informatie nemen wij mee en gaat ons helpen het issue Vanity Sizing in de Tweede Kamer te krijgen.
+                                Om ons doel te bereiken hebben we jouw hulp nodig! We zijn een handtekeningenactie gestart. 
+                                We willen aantonen dat beauty filters veel schade aan jongeren kunnen toebrengen. 
+                                Ook zijn wij van Filters4Fun een enquête gestart om achtergrondinformatie te vergaren. 
+                                Deze informatie gebruiken wij om het issue beauty filters bespreekbaar in de Tweede Kamer te krijgen.
                                 </p>
                             </div>
                         </div>

@@ -18,9 +18,9 @@
                             </div>
                             <figcaption class="align-items-center justify-content-center d-flex flex-column padding-20px-lr padding-30px-tb">
                                 <h3 class="team-title d-block alt-font text-white" style="margin-top: -300px !important;">Jade de Blok</h3>
-                                <h6 class="team-title d-block alt-font text-white">Projectmanager</h6>
+                                <h6 class="team-title d-block alt-font text-white" style="margin-top: -30px;">Projectmanager</h6>
                                 <div class="social-icon w-100 position-absolute left-0px">
-                                <p style="color: #fff; padding-left:20px; padding-right:20px; padding-top:50px;">
+                                <p style="color: #fff; padding-left:20px; padding-right:20px; padding-top:50px; margin-top: 50px;">
                                 Ik ben Jade de Blok en ik ben 18 jaar. Ik vind het belangrijk dat wij ons hard maken voor de invloed van filters op jongeren. 
                                 Dit is omdat ik uit ervaring spreek dat filters veel invloed hebben op tieners. <br><br>
                                 Toen ik zelf 13 á 14 jaar was maakten mijn vriendinnen en ik alleen maar selfies met filters omdat wij ons op deze manier mooier voelden. 
@@ -40,9 +40,9 @@
                             </div>
                             <figcaption class="align-items-center justify-content-center d-flex flex-column padding-20px-lr padding-30px-tb">
                                 <h3 class="team-title d-block alt-font text-white" style="margin-top: -300px !important;">Peter van den Hout</h3>
-                                <h6 class="team-title d-block alt-font text-white">Product owner</h6>
+                                <h6 class="team-title d-block alt-font text-white" style="margin-top: -30px;">Product owner</h6>
                                 <div class="social-icon w-100 position-absolute left-0px">
-                                <p style="color: #fff; padding-left:20px; padding-right:20px; padding-top:50px;">
+                                <p style="color: #fff; padding-left:20px; padding-right:20px; padding-top:50px; margin-top: 50px;">
                                 Ik ben 19 jaar oud en woon in Den Haag. Dit jaar ben ik begonnen met de studie Communicatie aan de Haagse Hogeschool. 
                                 Ik vind Filters4Fun een goed initiatief omdat het doel is om jongeren te helpen. 
                                 Tegenwoordig komen er zoveel foto’s voorbij van modellen die extra mooi zijn gemaakt met het gebruik van beauty-filters. 
@@ -63,9 +63,9 @@
                             </div>
                             <figcaption class="align-items-center justify-content-center d-flex flex-column padding-20px-lr padding-30px-tb">
                                 <h3 class="team-title d-block alt-font text-white" style="margin-top: -300px !important;">Frederiek Koops</h3>
-                                <h6 class="team-title d-block alt-font text-white">Grafisch vormgever</h6>
+                                <h6 class="team-title d-block alt-font text-white" style="margin-top: -30px;">Grafisch vormgever</h6>
                                 <div class="social-icon w-100 position-absolute left-0px">
-                                <p style="color: #fff; padding-left:20px; padding-right:20px; padding-top:50px;">
+                                <p style="color: #fff; padding-left:20px; padding-right:20px; padding-top:50px; margin-top: 50px;">
                                 Ik ben 20 jaar oud en kom uit Rotterdam. Momenteel studeer ik Communicatie aan de Haagse Hogeschool. 
                                 Ik vind het belangrijk dat iedereen zich goed voelt over zichzelf. 
                                 Daarom vind ik Filters4Fun een goed initiatief om meer aandacht trekken voor een realistischer zelfbeeld onder jongeren.
@@ -84,9 +84,9 @@
                             </div>
                             <figcaption class="align-items-center justify-content-center d-flex flex-column padding-20px-lr padding-30px-tb">
                                 <h3 class="team-title d-block alt-font text-white" style="margin-top: -300px !important;">Melissa Halley</h3>
-                                <h6 class="team-title d-block alt-font text-white">Copywriter</h6>
+                                <h6 class="team-title d-block alt-font text-white" style="margin-top: -30px;">Copywriter</h6>
                                 <div class="social-icon w-100 position-absolute left-0px">
-                                <p style="color: #fff; padding-left:20px; padding-right:20px; padding-top:50px;">
+                                <p style="color: #fff; padding-left:20px; padding-right:20px; padding-top:50px; margin-top: 50px;">
                                 Ik ben 20 jaar oud en woon in Den Haag. Ik studeer Communicatie aan de Haagse Hogeschool en werk parttime bij Beachclub Spice in Scheveningen. 
                                 Daarnaast geniet ik in mijn vrije tijd van sporten in de sportschool. 
                                 Mijn eerste ervaring met beautyfilters was toen ik ongeveer 14 jaar was. 
